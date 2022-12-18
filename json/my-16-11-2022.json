@@ -1,0 +1,56 @@
+[
+    {
+        "stu_id": "10",
+        "stu_name": "Anup",
+        "email": "l;kjlkj",
+        "password": "lkjlkjlk"
+    },
+    {
+        "stu_id": "12",
+        "stu_name": "55456",
+        "email": "554654",
+        "password": "456464"
+    },
+    {
+        "stu_id": "13",
+        "stu_name": "Abhishek",
+        "email": "sadsad",
+        "password": "asdsadasd"
+    },
+    {
+        "stu_id": "14",
+        "stu_name": "Abhishek",
+        "email": "abhishekbulbule1@gmail.com",
+        "password": "Abhi123"
+    },
+    {
+        "stu_id": "15",
+        "stu_name": "Anup",
+        "email": "abhi@gmail.com",
+        "password": "sadasd"
+    },
+    {
+        "stu_id": "24",
+        "stu_name": "sssssssssss",
+        "email": "sssssssssssssss",
+        "password": "ssssssssssssssss"
+    },
+    {
+        "stu_id": "27",
+        "stu_name": "xczc",
+        "email": "cxzcxz",
+        "password": "xczxczz"
+    },
+    {
+        "stu_id": "29",
+        "stu_name": "4564",
+        "email": "64654",
+        "password": "654654"
+    },
+    {
+        "stu_id": "31",
+        "stu_name": "121",
+        "email": "2121",
+        "password": "2121"
+    }
+]
